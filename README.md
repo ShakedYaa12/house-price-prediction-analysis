@@ -46,7 +46,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Conclusion
 This project serves as a demonstration of my early skills in data analysis and machine learning. It shows my ability to handle a real-world dataset, build predictive models, and evaluate their performance. Over time, I plan to improve and optimize this project further as I continue to develop my skills.
-
----
-
-אם יש לך תוספות או שינויים, תוכל להודיע לי ואעדכן בהתאם!
